@@ -15,7 +15,7 @@ index html
 
 body{
     font-family:Arial,sans-serif;
-    background:linear-gradient(135deg,#0078D4,#6B4EFF);
+    background:linear-gradient(135deg,#0078D4,#6B4EFF)
     min-height:100vh;
     display:flex;
     justify-content:center;
